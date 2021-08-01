@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS Tech_Mongols;
+
+CREATE DATABASE Tech_Mongols;
