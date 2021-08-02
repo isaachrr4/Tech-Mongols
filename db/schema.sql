@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS Tech_Mongols;
+DROP DATABASE IF EXISTS Tech_Mongols_db;
 
-CREATE DATABASE Tech_Mongols;
+CREATE DATABASE Tech_Mongols_db;
